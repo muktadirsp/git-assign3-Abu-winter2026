@@ -1,0 +1,1 @@
+We are practicing Git for Assignment 3.
